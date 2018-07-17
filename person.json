@@ -1,340 +1,271 @@
-[
-    {
-       "IdPersona":1,
-       "Nombre":"SANCHEZ CARRARA LETICIA",
-       "Cargo":"DIRECTORA DE FONDEO Y NUEVOS NEGOCIOS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":2,
-       "Nombre":"MARTINEZ CASA IVAN",
-       "Cargo":"DIRECTOR DIVISIONAL CENTRO",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":3,
-       "Nombre":"UBANDO HERRERA JOSE ALBERTO",
-       "Cargo":"DIRECTOR JURIDICO",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":4,
-       "Nombre":"LOPEZ CELAYA LEONEL",
-       "Cargo":"DIRECTOR CORPORATIVO DE TELECOMUNICACIONES",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":5,
-       "Nombre":"CERON VERA HECTOR",
-       "Cargo":"DIRECTOR DE CONTRALORIA",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":6,
-       "Nombre":"QUINTERO GARGALLO HECTOR",
-       "Cargo":"DIRECTOR DE SISTEMAS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO EUCKEN",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":7,
-       "Nombre":"LORENZO ZAMORA JUANA",
-       "Cargo":"CAPACITACION",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO EUCKEN",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":8,
-       "Nombre":"SUAREZ PARE SANDRA",
-       "Cargo":"DIRECTORA DE CPA",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO EUCKEN",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":9,
-       "Nombre":"JIMENEZ VALENTINO VICTOR HUGO",
-       "Cargo":"SUBDIRECTOR REGIONAL Y DE FORMACION",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":10,
-       "Nombre":"ARCHUNDIA GARCIA ALBERTO JESUS",
-       "Cargo":"SUBDIRECTOR REGIONAL Y DE FORMACION",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":11,
-       "Nombre":"GUZMAN SOTO JUAN CARLOS",
-       "Cargo":"GERENTE EXPANSION",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":12,
-       "Nombre":"PEREZ PEREZ NOE BELVENOY",
-       "Cargo":"GERENTE VOLANTE",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":13,
-       "Nombre":"MORALES ESCAMILLA  JOSE LUIS",
-       "Cargo":"SUBDIRECTOR DE CONTRALORIA",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":14,
-       "Nombre":"MONTEJO CORDOBA ROYMAN",
-       "Cargo":"SUBDIRECTOR DE FONDEO",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":15,
-       "Nombre":"MAZON MATA FELIPE",
-       "Cargo":"CONTADOR",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":16,
-       "Nombre":"ZUÑIGA FERMIN JOSE",
-       "Cargo":"GERENTE DE NOMINA",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":17,
-       "Nombre":"BECERRIL MARTINEZ JULIO CESAR",
-       "Cargo":"MENSAJERO",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":18,
-       "Nombre":"MEZA PALMA RICARDO",
-       "Cargo":"GERENTE DE RECUPERACION Y CIERRE DE FICHAS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":19,
-       "Nombre":"ALVARADO RODRIGUEZ MARTIN",
-       "Cargo":"GERENTE DE AUDITORIA METODOLOGICA",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":20,
-       "Nombre":"GONZALEZ REYES JOSE AUGUSTO",
-       "Cargo":"GERENTE DE DESARROLLO DE SISTEMAS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO EUCKEN",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":21,
-       "Nombre":"RIOS ZAVALA PABLO",
-       "Cargo":"GERENTE DE ANALISIS DE CREDITO Y RIESGOS CC",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO EUCKEN",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":22,
-       "Nombre":"SERRANO MARTINEZ CARLOS ALBERTO",
-       "Cargo":"COORDINADOR DE ABOGADOS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":23,
-       "Nombre":"DE LA PAZ LOPEZ MARIANO",
-       "Cargo":"COORDINADOR DE TELECOMUNICACIONES",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":24,
-       "Nombre":"ROMERO RODRIGUEZ HUMBERTO",
-       "Cargo":"COORDINADOR DE ABOGADOS",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"SUCURSALES",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":25,
-       "Nombre":"SAN ROMAN RIVERA HECTOR",
-       "Cargo":"CONSULTOR DE NORMATIVIDAD Y CUMPLIMIENTO",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    },
-    {
-       "IdPersona":26,
-       "Nombre":"ARCOS MOLINERO MARIO",
-       "Cargo":"GERENTE DE SEGUIMIENTO DE NUEVOS Y RENOVADOS DE CI",
-       "Ubicacion":"OFICINAS CENTRALES",
-       "Localidad":"CORPORATIVO LEBNITZ",
-       "Nivel":1,
-       "Empresa":"Alcance Financiera SAPI de CV SOFOM ENR",
-       "Activo":true,
-       "Propiedades":[
- 
-       ]
-    }
-]
+[{
+	"IdPersona": 1,
+	"Nombre": "SANCHEZ CABRERA LORENA",
+	"Cargo": "DIRECTORA DE FONDEO",
+	"Ubicacion": "CENTRALES",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "Financiera SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 1,
+		"IdPersona": 1,
+		"TipoPropiedad": 0,
+		"Valor": "91388821"
+	}, {
+		"IdPropiedad": 2,
+		"IdPersona": 1,
+		"TipoPropiedad": 1,
+		"Valor": "2981"
+	}, {
+		"IdPropiedad": 3,
+		"IdPersona": 1,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 4,
+		"IdPersona": 1,
+		"TipoPropiedad": 3,
+		"Valor": "2121108773"
+	}]
+}, {
+	"IdPersona": 2,
+	"Nombre": "MARTINEZ CASASOLA",
+	"Cargo": "DIRECTOR",
+	"Ubicacion": "CENTRALES",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "Financiera",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 5,
+		"IdPersona": 2,
+		"TipoPropiedad": 0,
+		"Valor": "91354455"
+	}, {
+		"IdPropiedad": 6,
+		"IdPersona": 2,
+		"TipoPropiedad": 1,
+		"Valor": "1111"
+	}, {
+		"IdPropiedad": 7,
+		"IdPersona": 2,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 8,
+		"IdPersona": 2,
+		"TipoPropiedad": 3,
+		"Valor": "552323232"
+	}]
+}, {
+	"IdPersona": 3,
+	"Nombre": "JOSE JOSE",
+	"Cargo": "DIRECTOR",
+	"Ubicacion": "CENTRALES",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "Financiera",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 9,
+		"IdPersona": 3,
+		"TipoPropiedad": 0,
+		"Valor": "9132322"
+	}, {
+		"IdPropiedad": 10,
+		"IdPersona": 3,
+		"TipoPropiedad": 1,
+		"Valor": "2323"
+	}, {
+		"IdPropiedad": 11,
+		"IdPersona": 3,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 12,
+		"IdPersona": 3,
+		"TipoPropiedad": 3,
+		"Valor": "2323232323"
+	}]
+}, {
+	"IdPersona": 4,
+	"Nombre": "CELAYA PABLO",
+	"Cargo": "DIRECTOR",
+	"Ubicacion": "CENTRALES",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 13,
+		"IdPersona": 4,
+		"TipoPropiedad": 0,
+		"Valor": "91382635"
+	}, {
+		"IdPropiedad": 14,
+		"IdPersona": 4,
+		"TipoPropiedad": 1,
+		"Valor": "2635"
+	}, {
+		"IdPropiedad": 15,
+		"IdPersona": 4,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 16,
+		"IdPersona": 4,
+		"TipoPropiedad": 3,
+		"Valor": "443434344"
+	}]
+}, {
+	"IdPersona": 5,
+	"Nombre": "CERONA",
+	"Cargo": "DIRECTOR",
+	"Ubicacion": "OFICINAS",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 17,
+		"IdPersona": 5,
+		"TipoPropiedad": 0,
+		"Valor": "3443434"
+	}, {
+		"IdPropiedad": 18,
+		"IdPersona": 5,
+		"TipoPropiedad": 1,
+		"Valor": "3434"
+	}, {
+		"IdPropiedad": 19,
+		"IdPersona": 5,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 20,
+		"IdPersona": 5,
+		"TipoPropiedad": 3,
+		"Valor": "43434343434"
+	}]
+}, {
+	"IdPersona": 6,
+	"Nombre": "QUINTERO  Y",
+	"Cargo": "SISTEMAS",
+	"Ubicacion": "OFICINAS",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 21,
+		"IdPersona": 6,
+		"TipoPropiedad": 0,
+		"Valor": "3444444"
+	}, {
+		"IdPropiedad": 22,
+		"IdPersona": 6,
+		"TipoPropiedad": 1,
+		"Valor": "2433"
+	}, {
+		"IdPropiedad": 23,
+		"IdPersona": 6,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 24,
+		"IdPersona": 6,
+		"TipoPropiedad": 3,
+		"Valor": "323232323"
+	}]
+}, {
+	"IdPersona": 7,
+	"Nombre": "LORENA V",
+	"Cargo": "CAPACITACION",
+	"Ubicacion": "OFICINAS",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 25,
+		"IdPersona": 7,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 26,
+		"IdPersona": 7,
+		"TipoPropiedad": 3,
+		"Valor": "454545454"
+	}]
+}, {
+	"IdPersona": 8,
+	"Nombre": "SUAREZ 23",
+	"Cargo": "DIRECTORA",
+	"Ubicacion": "OFICINAS",
+	"Localidad": "CORPORATIVO",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 27,
+		"IdPersona": 8,
+		"TipoPropiedad": 0,
+		"Valor": "32322332"
+	}, {
+		"IdPropiedad": 28,
+		"IdPersona": 8,
+		"TipoPropiedad": 1,
+		"Valor": "4321"
+	}, {
+		"IdPropiedad": 29,
+		"IdPersona": 8,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 30,
+		"IdPersona": 8,
+		"TipoPropiedad": 3,
+		"Valor": "234434546"
+	}]
+}, {
+	"IdPersona": 9,
+	"Nombre": "HUGO SANCHEZ",
+	"Cargo": "SUBDIRECTOR",
+	"Ubicacion": "OFICINAS ",
+	"Localidad": "SUCURSALES",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 31,
+		"IdPersona": 9,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 32,
+		"IdPersona": 9,
+		"TipoPropiedad": 3,
+		"Valor": "322323321"
+	}]
+}, {
+	"IdPersona": 10,
+	"Nombre": "ARCHUNDIA 7",
+	"Cargo": "SUBDIRECTOR ",
+	"Ubicacion": "OFICINAS ",
+	"Localidad": "SUCURSALES",
+	"Nivel": 1,
+	"Empresa": "SAPITO",
+	"Activo": true,
+	"Propiedades": [{
+		"IdPropiedad": 33,
+		"IdPersona": 10,
+		"TipoPropiedad": 2,
+		"Valor": "a@sapito.com"
+	}, {
+		"IdPropiedad": 34,
+		"IdPersona": 10,
+		"TipoPropiedad": 3,
+		"Valor": "434324423"
+	}]
+}]
